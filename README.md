@@ -37,8 +37,10 @@
       </ul>
      </h5>
    
-  
-  
+  <h2>Projects ⚙</h2>
+  <div align='left'>
+    <a href="https://marcusvrsousa.github.io/Dashboard-Covid19/"><img src='https://user-images.githubusercontent.com/32283039/233812846-12eacdcf-fb78-4c5f-867b-58634a811cd2.png' width='400px'></a>
+  </div>
 
 
 <!--
