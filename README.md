@@ -39,9 +39,8 @@
    
   <h2>Projects ⚙</h2>
   <div align='left'>
-    <a href="https://marcusvrsousa.github.io/Dashboard-Covid19/"><img src='https://user-images.githubusercontent.com/32283039/233812846-12eacdcf-fb78-4c5f-867b-58634a811cd2.png' width='400px'></a>
-  </div>
-
+    <a href="https://marcusvrsousa.github.io/Dashboard-Covid19/"><img src='https://user-images.githubusercontent.com/32283039/233812846-12eacdcf-fb78-4c5f-867b-58634a811cd2.png' width='350px'></a> <img width='50px'/><a href="https://marcusvrsousa.github.io/makeup-catalog/"><img src='https://user-images.githubusercontent.com/32283039/233816343-ee93a8a7-d561-4587-b3eb-511e65898fcc.png' width='340px'></a>
+   </div>
 
 <!--
 **marcusvrsousa/marcusvrsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
