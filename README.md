@@ -40,10 +40,9 @@
    
   <h2>Projects ⚙</h2>
   <div >
- <a href="https://react-flashcards-nine.vercel.app/"><img src='https://github.com/marcusvrsousa/marcusvrsousa/assets/32283039/024ff925-9361-4686-baec-a51ac52a468b.png' width='500px'></a>  
- <a href="https://francielesobrancelhasof.vercel.app/"><img src='https://github.com/marcusvrsousa/marcusvrsousa/assets/32283039/66065d66-dd8b-478a-89e8-ab7930c040f8.png' height="300px" width='500px'></a>
+ <a href="https://react-flashcards-nine.vercel.app/"><img src='https://github.com/marcusvrsousa/marcusvrsousa/assets/32283039/024ff925-9361-4686-baec-a51ac52a468b.png' width='500px'></a> 
    <a href="https://bakery-website-ruddy.vercel.app/"><img src='https://github.com/marcusvrsousa/marcusvrsousa/assets/32283039/b56c376f-7f54-43ef-9c5a-b57c0de60d9b.png' width='500px'></a>
- 
+  <a href="https://francielesobrancelhasof.vercel.app/"><img src='https://github.com/marcusvrsousa/marcusvrsousa/assets/32283039/66065d66-dd8b-478a-89e8-ab7930c040f8.png' width='500px'></a>
    </div>
 
 <!--
