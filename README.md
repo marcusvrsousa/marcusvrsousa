@@ -41,7 +41,7 @@
   <h2>Projects ⚙</h2>
   <div align='left'>
 <!--     <a href="https://marcusvrsousa.github.io/Dashboard-Covid19/"><img src='https://user-images.githubusercontent.com/32283039/233812846-12eacdcf-fb78-4c5f-867b-58634a811cd2.png' width='350px'></a>  -->
-  <a href="https://francielesobrancelhasof.vercel.app/"><img src='https://github.com/marcusvrsousa/marcusvrsousa/assets/32283039/022eded0-53ba-45e6-a6dd-f178ceb68dfe.png' height="340px" width='340px'></a>
+  <a href="https://francielesobrancelhasof.vercel.app/"><img src='https://github.com/marcusvrsousa/marcusvrsousa/assets/32283039/34d38c75-18ed-4c7b-9c7f-baebadfb840b'  width='340px'></a>
     <a href="https://bakery-website-ruddy.vercel.app/"><img src='https://github.com/marcusvrsousa/marcusvrsousa/assets/32283039/b56c376f-7f54-43ef-9c5a-b57c0de60d9b.png' width='340px'></a>
   <img width='50px'/>
    </div>
