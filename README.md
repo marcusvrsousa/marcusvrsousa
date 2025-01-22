@@ -1,5 +1,5 @@
 <h1> Hi!! My name is Marcus Rocha 👋
-<h5> - Graduating in analysis and systems development at UNICID - 1º Semester  💻<h5/>
+<h5> - Graduating in analysis and systems development at UNICID - 3º Semester  💻<h5/>
 <h5> - I'm a systems development technician certified by SENAI CIMATEC 💻<h5/>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusvrsousa&theme=dracula&show_icons=true)](https://github.com/marcusvrsousa/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvrsousa&layout=compact&theme=dracula)](https://github.com/marcusvrsousa/github-readme-stats)
